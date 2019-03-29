@@ -1,8 +1,8 @@
 {
-  "countries": [
-    { "id": 1, "name": "Denmark" },
-    { "id": 2, "name": "England" },
-    { "id": 3, "name": "France" }
+  "cities": [
+    { "id": 1, "name": "Copenhagen" },
+    { "id": 2, "name": "Dublin" },
+    { "id": 3, "name": "Edinburgh" }
   ],
   "profile": {
     "name": "typicode"
